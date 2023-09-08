@@ -27,7 +27,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johyeonwoooooooo&layout=compact&theme=tokyonight)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=[https%3A%2F%2Fgithub.com](https://github.com/Johyeonwoooooooo)%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 <!-- 
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></span> 
