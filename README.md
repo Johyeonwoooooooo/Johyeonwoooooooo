@@ -13,6 +13,7 @@
 <span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></span>
 <br>
 <span><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE%2B%2B&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino%2B%2B&logoColor=white"/></span>
 <br><br>
 
 ### :mailbox_with_mail: Contacts
