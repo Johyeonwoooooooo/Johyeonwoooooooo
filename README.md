@@ -25,7 +25,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunwoo02031)](https://solved.ac/hyunwoo02031)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunwoo02031&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johyeonwoooooooo&layout=compact&theme=tokyonight)
 
 <!-- 
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></span> 
