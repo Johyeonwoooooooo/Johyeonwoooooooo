@@ -22,7 +22,8 @@
 <br><br>
 
 ### 🔖 log
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunwoo02031)](https://solved.ac/hyunwoo02031)
 
 </div>
 
