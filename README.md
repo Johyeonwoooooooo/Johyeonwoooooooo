@@ -14,6 +14,7 @@
 <br>
 <span><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE%2B%2B&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino%2B%2B&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/></span>
 <br><br>
 
 ### :mailbox_with_mail: Contacts
