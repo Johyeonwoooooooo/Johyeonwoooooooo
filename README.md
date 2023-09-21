@@ -30,8 +30,3 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJohyeonwoooooooo%2Fhit-counter&count_bg=%23FFC1C1&title_bg=%23FFADB9&icon=smugmug.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!-- 
-<span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></span> 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dabin478)](https://solved.ac/dabin478/)
--->
