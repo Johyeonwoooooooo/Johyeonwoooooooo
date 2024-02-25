@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=HYEONWOO&color=FFE4E1&height=200&fontColor=FFADB9&fontSize=80)
 
 ### 🖥️ Tech Stack 🖥️
-<!-- <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></span> -->
-<!-- <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></span> -->
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></span>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <br>
 <span><img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></span>
