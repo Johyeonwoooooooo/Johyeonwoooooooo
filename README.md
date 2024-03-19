@@ -22,7 +22,7 @@
 <br>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat&logo=ScikitLearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=ScikitLearn&logoColor=white"/>
 <br>
 
 
