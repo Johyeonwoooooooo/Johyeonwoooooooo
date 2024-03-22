@@ -20,8 +20,6 @@
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <!-- <span><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseIDE%2B%2B&logoColor=white"/></span> -->
 <br>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=ScikitLearn&logoColor=white"/>
 <br>
 
