@@ -36,4 +36,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johyeonwoooooooo&show_icons=true&include_all_commits=true&count_private=true&title_color=FF92BB&text_color=5C5C5C&icon_color=FF34B3)](https://github.com/Johyeonwoooooooo/github-readme-stats) 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJohyeonwoooooooo%2Fhit-counter&count_bg=%23FFC1C1&title_bg=%23FFADB9&icon=smugmug.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/Johyeonwoooooooo.svg)](https://hits.sh/github.com/Johyeonwoooooooo/)
