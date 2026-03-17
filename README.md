@@ -3,26 +3,40 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=HYEONWOO&color=FFE4E1&height=200&fontColor=FFADB9&fontSize=80)
 
 ### 🖥️ Tech Stack 🖥️
-<!--<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></span>-->
 <br>
-<span><img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></span> 
-<span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></span>
+<span>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+</span>
 <br> 
-<span><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></span>
+<span>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazon-s3&logoColor=white"/>
+</span>
 <br>
-<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-<!-- <span><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseIDE%2B%2B&logoColor=white"/></span> -->
+<span>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Isaac Sim-76B900?style=flat&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gazebo-FF6600?style=flat&logo=gazebo&logoColor=white"/>
+</span>
 <br>
+<img src="https://img.shields.io/badge/LeRobot-000000?style=flat&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<br>
+<span>
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=ScikitLearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+</span>
 <br>
-
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hyunwoo020311@gmail.com)](mailto:hyunwoo020311@gmail.com)
