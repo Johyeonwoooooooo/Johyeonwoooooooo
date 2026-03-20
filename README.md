@@ -1,11 +1,34 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=HYEONWOO&color=0D1117,1a1a2e,16213e&height=200&fontColor=58A6FF&fontSize=80&fontAlignY=38&desc=Robotics%20%7C%20Physical%20AI%20%7C%20AI%20Agent&descAlignY=60&descSize=18&descColor=8B949E)
+![header](https://capsule-render.vercel.app/api?type=waving\&text=HYEONWOO\&color=0D1117,1a1a2e,16213e\&height=200\&fontColor=58A6FF\&fontSize=80\&fontAlignY=38\&desc=Robotics%20%7C%20Physical%20AI%20%7C%20AI%20Agent\&descAlignY=60\&descSize=18\&descColor=8B949E)
 
 <br>
- 
-I'm interested in Barrier-Free Tech, Defense Systems, and AI Agent Services —<br>
+
+I'm interested in Barrier-Free Tech, Defense Systems, and AI Agent Services <br>
 connecting AI and robots to make a real impact in the physical world.
+
+---
+
+### 🎓 Achievements & Experience
+
+* **Jun 2022 – Feb 2023**
+  Awarded *Encouragement Prize* at Dongguk University Idea Competition
+
+* **Jun 2023 – Jun 2024**
+  Member of **Grape**, a cybersecurity & hacking union club
+
+* **Mar 2024 – Jul 2024**
+  Ranked **Top 7** on *Open-Ko-LLM-Leaderboard*
+  with a fine-tuned **LLaMA3-based model**, focusing on Korean LLM performance optimization
+
+* **Jun 2025 – Present**
+  Member of **Prometheus**, an AI union club
+
+* **Feb 2026 – Present**
+  Participant in **Hanium DreamUp Program**
+  working on industry-linked software & AI projects
+
+---
 
 ### 🛠 Tech Stack
 
@@ -46,22 +69,22 @@ connecting AI and robots to make a real impact in the physical world.
 
 ### 🔖 Projects
 
-| Project | Description |
-|---|---|
-| [Gesture-Drone-Control](https://github.com/Johyeonwoooooooo/Gesture-Drone-Control) | Physical AI Drone Project : TBD |
-| [OpenVLA-OMX](https://github.com/Johyeonwoooooooo/OpenVLA-OMX) | Vision-Language-Action model for robot manipulation |
-| [ArmChemist] | AI robotic arm that substitutes for chemical experiments using OpenVLA & Agent |
-| [SoundCity] | Smart city construction & hearing-impaired support service using sound recognition |
+| Project                                                                            | Description                                                                        |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Gesture-Drone-Control](https://github.com/Johyeonwoooooooo/Gesture-Drone-Control) | Physical AI Drone Project : TBD                                                    |
+| [OpenVLA-OMX](https://github.com/Johyeonwoooooooo/OpenVLA-OMX)                     | Vision-Language-Action model for robot manipulation                                |
+| [ArmChemist]                                                                       | AI robotic arm that substitutes for chemical experiments using OpenVLA & Agent     |
+| [SoundCity]                                                                        | Smart city construction & hearing-impaired support service using sound recognition |
 
 <br>
 
 ### 📬 Contacts
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:hyunwoo020311@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:hyunwoo02031@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat\&logo=Gmail\&logoColor=white)](mailto:hyunwoo020311@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat\&logo=Naver\&logoColor=white)](mailto:hyunwoo02031@naver.com)
 
 <br>
 
-[![Hits](https://hits.sh/github.com/Johyeonwoooooooo.svg?style=flat&color=58A6FF&labelColor=1a1a2e)](https://hits.sh/github.com/Johyeonwoooooooo/)
+[![Hits](https://hits.sh/github.com/Johyeonwoooooooo.svg?style=flat\&color=58A6FF\&labelColor=1a1a2e)](https://hits.sh/github.com/Johyeonwoooooooo/)
 
 </div>
