@@ -3,13 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=HYEONWOO&color=0D1117,1a1a2e,16213e&height=200&fontColor=58A6FF&fontSize=80&fontAlignY=38&desc=Robotics%20%7C%20Physical%20AI%20%7C%20AI%20Agent&descAlignY=60&descSize=18&descColor=8B949E)
 
 <br>
-
-```
-Connecting AI and robots to build a better world
-Barrier-free tech · Defense systems · AI Agent services
-```
-
-<br>
+ 
+I'm interested in Barrier-Free Tech, Defense Systems, and AI Agent Services —<br>
+connecting AI and robots to make a real impact in the physical world.
 
 ### 🛠 Tech Stack
 
@@ -54,6 +50,8 @@ Barrier-free tech · Defense systems · AI Agent services
 |---|---|
 | [Gesture-Drone-Control](https://github.com/Johyeonwoooooooo/Gesture-Drone-Control) | Physical AI Drone Project : TBD |
 | [OpenVLA-OMX](https://github.com/Johyeonwoooooooo/OpenVLA-OMX) | Vision-Language-Action model for robot manipulation |
+| [ArmChemist] | AI robotic arm that substitutes for chemical experiments using OpenVLA & Agent |
+| [SoundCity] | Smart city construction & hearing-impaired support service using sound recognition |
 
 <br>
 
