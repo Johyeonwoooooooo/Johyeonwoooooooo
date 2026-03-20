@@ -9,6 +9,8 @@ connecting AI and robots to make a real impact in the physical world.
 
 ---
 
+</div>
+
 ### 🎓 Achievements & Experience
 
 * **Jun 2022 – Feb 2023**
@@ -26,9 +28,11 @@ connecting AI and robots to make a real impact in the physical world.
 
 * **Feb 2026 – Present**
   Participant in **Hanium DreamUp Program**
-  working on industry-linked software & AI projects
+  working on industry-linked Robot & AI projects
 
 ---
+
+<div align="center">
 
 ### 🛠 Tech Stack
 
