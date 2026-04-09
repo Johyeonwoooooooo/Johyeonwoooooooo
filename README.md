@@ -78,7 +78,7 @@ connecting AI and robots to make a real impact in the physical world.
 | [Gesture-Drone-Control](https://github.com/Johyeonwoooooooo/Gesture-Drone-Control) | Physical AI Drone Project : TBD                                                    |
 | [OpenVLA-OMX](https://github.com/Johyeonwoooooooo/OpenVLA-OMX)                     | Vision-Language-Action model for robot manipulation                                |
 | [ArmChemist]                                                                       | AI robotic arm that substitutes for chemical experiments using OpenVLA & Agent     |
-| [SoundCity]                                                                        | Smart city construction & hearing-impaired support service using sound recognition |
+| [SoundCity] (https://github.com/26-DGU-CECD)                                       | Smart city construction & hearing-impaired support service using sound recognition |
 
 <br>
 
