@@ -26,6 +26,10 @@ connecting AI and robots to make a real impact in the physical world.
 * **Jun 2025 – Present**
   Member of **Prometheus**, an AI union club
 
+* **Mar 2026 – Jun 2026**
+  Team Leader in the withus[x] Industry-Linked Project
+  Developed an **On-Device AI-Based Environmental Sound Recognition Keyring** and received the **Excellence Award (2nd Place)** on June 19, 2026
+
 * **Feb 2026 – Present**
   Participant in **Hanium DreamUp Program**
   working on industry-linked Robot & AI projects
