@@ -1,94 +1,60 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving\&text=HYEONWOO\&color=0D1117,1a1a2e,16213e\&height=200\&fontColor=58A6FF\&fontSize=80\&fontAlignY=38\&desc=Robotics%20%7C%20Physical%20AI%20%7C%20AI%20Agent\&descAlignY=60\&descSize=18\&descColor=8B949E)
-
-<br>
- 
-I'm interested in Barrier-Free Tech, Defense Systems, and AI Agent Services <br>
-connecting AI and robots to make a real impact in the physical world.
+AI Agent와 Physical AI에 관심이 있습니다. <br>
+AI와 로봇을 연결해 물리 세계에서 실질적인 변화를 만들어가고자 합니다.
 
 ---
 
 </div>
 
-### 🎓 Achievements & Experience
+### 🎓 수상 및 활동
 
-* **Jun 2022 – Feb 2023**
-  Awarded *Encouragement Prize* at Dongguk University Idea Competition
+* **2022년 6월 – 2023년 2월**
+  동국대학교 아이디어 경진대회 *장려상* 수상
 
-* **Jun 2023 – Jun 2024**
-  Member of **Grape**, a cybersecurity & hacking union club
+* **2023년 6월 – 2024년 6월**
+  보안·해킹 연합 동아리 **Grape** 활동
 
-* **Mar 2024 – Jul 2024**
-  Ranked **Top 7** on *Open-Ko-LLM-Leaderboard*
-  with a fine-tuned **LLaMA3-based model**, focusing on Korean LLM performance optimization
+* **2024년 3월 – 2024년 7월**
+  **LLaMA3 기반 파인튜닝 모델**로 *Open-Ko-LLM-Leaderboard* **7위** 달성
+  한국어 LLM 성능 최적화에 집중
 
-* **Jun 2025 – Present**
-  Member of **Prometheus**, an AI union club
+* **2025년 6월 – 2026년 8월**
+  AI 연합 동아리 **Prometheus** 활동
 
-* **Mar 2026 – Jun 2026**
-  Team Leader in the withus[x] Industry-Linked Project
-  Developed an **On-Device AI-Based Environmental Sound Recognition Keyring** and received the **Excellence Award (2nd Place)** on June 19, 2026
+* **2026년 3월 – 2026년 6월**
+  withus[x] 산학연계 프로젝트 팀장
+  **온디바이스 AI 기반 환경음 인식 디바이스** 개발, 2026년 6월 19일 **우수상(2위)** 수상
 
-* **Feb 2026 – Present**
-  Participant in **Hanium DreamUp Program**
-  working on industry-linked Robot & AI projects
+* **2026년 2월 – 현재**
+  **한이음 드림업 프로그램** 참여
+  로봇·AI 산학연계 프로젝트 진행
+
+* **2026년 7월 – 2026년 10월**
+  **AI로봇 안전제어 솔루션 1기** 참여
+
+* **2026년 8월 5일**
+  **In-Jeju 챌린지 최우수상** 수상
 
 ---
 
 <div align="center">
 
-### 🛠 Tech Stack
+<br>
 
-**Languages**
+### 🔖 대표 프로젝트
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+| 프로젝트                                                                               | 설명                                                                                  |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Gesture-Drone-Control](https://github.com/Johyeonwoooooooo/Gesture-Drone-Control) | Physical AI 드론 프로젝트 : TBD                                                            |
+| [OpenVLA-OMX](https://github.com/Johyeonwoooooooo/OpenVLA-OMX)                     | 로봇 매니퓰레이션을 위한 Vision-Language-Action 모델                                              |
+| [ArmChemist](https://github.com/armchemist)                                        | OpenVLA와 Agent를 활용해 화학 실험을 대신 수행하는 AI 로봇팔                                            |
+| [MiiMo](https://github.com/26-DGU-CECD)                                            | 청각장애인을 위한 실시간 환경음 인식 서비스. 엣지 AI 기반으로 구현했으며 3D 프린팅 커스텀 웨어러블 하드웨어를 직접 제작 |
 
 <br>
 
-**Robotics & Simulation**
-
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Isaac Sim-76B900?style=flat&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gazebo-FF6600?style=flat&logo=gazebo&logoColor=white"/>
-<img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=nvidia&logoColor=white"/>
-
-<br>
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LeRobot-000000?style=flat&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/NVIDIA CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
-
-<br>
-
-**Infra & Backend**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
-
-<br><br>
-
-### 🔖 Projects
-
-| Project                                                                            | Description                                                                        |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [Gesture-Drone-Control](https://github.com/Johyeonwoooooooo/Gesture-Drone-Control) | Physical AI Drone Project : TBD                                                    |
-| [OpenVLA-OMX](https://github.com/Johyeonwoooooooo/OpenVLA-OMX)                     | Vision-Language-Action model for robot manipulation                                |
-| [ArmChemist](https://github.com/armchemist)                                        | AI robotic arm that substitutes for chemical experiments using OpenVLA & Agent     |
-| [MiiMo](https://github.com/26-DGU-CECD)                                            | Real-time environmental sound recognition for the hearing-impaired, built on edge AI with custom 3D-printed wearable hardware. |
-
-<br>
-
-### 📬 Contacts
+### 📬 연락처
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat\&logo=Gmail\&logoColor=white)](mailto:hyunwoo020311@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat\&logo=Naver\&logoColor=white)](mailto:hyunwoo02031@naver.com)
- 
+
 </div>
