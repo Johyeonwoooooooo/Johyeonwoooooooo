@@ -44,7 +44,7 @@ AI Agent와 Physical AI에 관심이 있습니다. <br>
 | 프로젝트                                                                               | 설명                                                                                  |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | [RoboLotus](https://github.com/RoboLotus)                                         | 열화상·Depth 카메라 캘리브레이션으로 열화상 3D SLAM 맵을 생성하고 폐기물 공장의 이상을 탐지하는 순찰 모바일 로봇 |
-| [Gesture-Drone-Control](https://github.com/Johyeonwoooooooo/Gesture-Drone-Control) | Asymmetric SAC 강화학습 기반 드론 자율 주행                                                      |
+| [AURORA](https://github.com/Johyeonwoooooooo/Gesture-Drone-Control) | Asymmetric SAC 강화학습 기반 드론 자율 주행                                                      |
 | [OpenVLA-OMX](https://github.com/Johyeonwoooooooo/OpenVLA-OMX)                     | OpenVLA 모델을 적용한 로봇팔 자동 인형뽑기 프로젝트                                                     |
 | [ArmChemist](https://github.com/armchemist)                                        | Agent와 VLA로 화학 실험을 대신 수행하는 양팔 로봇. 레일을 추가해 작업 공간까지 확장           |
 | [MiiMo](https://github.com/26-DGU-CECD)                                            | 청각장애인을 위한 환경음 인식 디바이스 제작. 경량화 모델을 적용한 온디바이스 추론과 3D 프린팅 웨어러블 하드웨어 |
